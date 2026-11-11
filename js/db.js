@@ -20,7 +20,7 @@
   // Todas as opções editáveis em Admin → Configurações. Os valores abaixo valem enquanto nada foi salvo.
   const CONFIG_PADRAO = {
     // Loja e contato
-    nomeLoja: "Loja Online",
+    nomeLoja: "LN Loja online",
     slogan: "Tudo o que você precisa, em um só lugar",
     whatsapp: "5500000000000",
     telefone: "",

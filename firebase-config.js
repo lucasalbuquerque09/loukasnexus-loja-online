@@ -2,10 +2,10 @@
 // Console do Firebase → Configurações do projeto → Seus apps → App da Web → "firebaseConfig".
 // (Estes valores são públicos; a segurança vem das regras do Firestore — veja regras.md.)
 window.firebaseConfig = {
-  apiKey: "AIzaSyApjRZhNrjbCn_Zji7gHb7nGhKdVwuErkk",
-  authDomain: "lojaonline-d188d.firebaseapp.com",
-  projectId: "lojaonline-d188d",
-  storageBucket: "lojaonline-d188d.firebasestorage.app",
-  messagingSenderId: "694275728947",
-  appId: "1:694275728947:web:d6ad814ed658a761b4e546"
+  apiKey: "AIzaSyCzeoAm0wTd0K4nEIYaHqxZG_hKNMOVh8o",
+  authDomain: "loukasnexus-lojaonline.firebaseapp.com",
+  projectId: "loukasnexus-lojaonline",
+  storageBucket: "loukasnexus-lojaonline.firebasestorage.app",
+  messagingSenderId: "776234707919",
+  appId: "1:776234707919:web:c355eaf84c820d355880ba"
 };

@@ -1,6 +1,6 @@
 {
   "id": "./admin.html",
-  "name": "Loja Online — Administração",
+  "name": "LN Loja online — Administração",
   "short_name": "Admin",
   "description": "Painel administrativo da loja.",
   "start_url": "./admin.html",
